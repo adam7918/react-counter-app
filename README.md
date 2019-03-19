@@ -1,6 +1,6 @@
 A simple counter app created to learn React. 
 
-![appScreenshot](counterapp.png)
+![appScreenshot](counter-app.png)
 
 ## Available Scripts
 
